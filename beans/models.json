@@ -1,0 +1,46 @@
+{
+    "acionamento_motor": {
+        "idmotor": "",
+        "isligado": "",
+        "sentido": "",
+        "velocity": ""
+    },
+    "cooler": {
+        "idcooler": "",
+        "isligado": ""
+    },
+    "input_a": {
+        "idsensor": "",
+        "value": ""
+    },
+    "input_b": {
+        "idsensor": "",
+        "value": ""        
+    },
+    "level": {
+        "idlevel": "",
+        "qtlevel": ""        
+    },
+    "microswitch": {
+        "idlimits": "",
+        "action": ""        
+    },
+    "motor": {
+        "idmotor": "",
+        "velocity": "",
+        "direction": ""        
+    },
+    "output_a": {
+        "idsensor": "",
+        "value": ""        
+    },
+    "temperature": {
+        "idsensor": "",
+        "temperatura": ""        
+    },
+    "users": {
+        "hascode": "",
+        "name": "",
+        "email": ""        
+    }
+}
